@@ -17,5 +17,5 @@ Installation
 ------------
 
 ```
-npm install xhrfs
+npm install xhrfs --save
 ```
